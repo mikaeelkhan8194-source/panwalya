@@ -1,0 +1,6 @@
+{
+  "name": "Paanwala",
+  "description": "A creator store and business commerce platform to register and sell online products, manage customer orders, and scale business revenue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
